@@ -13,16 +13,14 @@
 --Grey900:#141414;
 }
 
-
-
 body {
     background-color: var(--Grey900);
     width: 100%;
-    padding: 50px;
     justify-content: center;
     align-items: center;
     display: flex;
     flex-direction: column;
+    min-height: 100vh; 
 }
 
 .container {
