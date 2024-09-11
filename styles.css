@@ -15,7 +15,6 @@
 
 body {
     background-color: var(--Grey900);
-    width: 100%;
     justify-content: center;
     align-items: center;
     display: flex;
