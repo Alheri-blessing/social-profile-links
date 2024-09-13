@@ -80,6 +80,7 @@ body {
 .socials a:hover {
     transform: scale(1.1);
     background-color: var(--Green);
+    color: var(--Grey900);
 }
 @media screen and (max-width: 320px) {
     body{
@@ -149,5 +150,6 @@ body {
     .socials a:hover {
         transform: scale(1.1);
         background-color: var(--Green);
+        color: var(--Grey900);
     }
 }
